@@ -1,5 +1,5 @@
 {
-  "name": "p14-modal-ouerdia-a",
+  "name": "p14-modal-ouerdia-t",
   "version": "1.0.0",
   "description": "A modal by ouerdia",
   "main": "disc/index.js",
@@ -24,9 +24,11 @@
     "babel-preset-react-app": "^10.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "6.11.0",
     "react-scripts": "^5.0.1",
     "react-transition-group": "^4.4.5",
-    "react-router-dom": "6.11.0"
+    "source-map-loader": "^4.0.1",
+    "webpack": "^5.81.0"
   },
   "devDependencies": {
     "npm-prepare-dist": "^0.4.1"

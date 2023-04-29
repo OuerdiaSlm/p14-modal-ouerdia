@@ -9,8 +9,8 @@ Simple Modal component for React project.
 
 You can install this component with npm or yarn:
 
-    npm i p14-modal-ouerdia-sl
+    npm i p14-modal-ouerdia-t
 
 or
 
-    yarn i p14-modal-ouerdia-sl
+    yarn i p14-modal-ouerdia-t
